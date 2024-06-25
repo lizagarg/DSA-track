@@ -8,7 +8,7 @@ public:
     
     void push(int x) {
        s1.push(x);
-    }
+    
     
     int pop() {
         if(!s2.empty()) {
